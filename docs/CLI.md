@@ -307,4 +307,4 @@ engram add semantic "discovered fact" --project $PROJECT --importance 0.7
 engram add episodic "completed the migration" --title "DB migration" --project $PROJECT
 ```
 
-See `skills/memory.md` for a ready-made Claude Code skill definition.
+See `skills/memory/SKILL.md` for a ready-made Claude Code skill definition.
